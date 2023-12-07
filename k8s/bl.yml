@@ -24,7 +24,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/takuyak/handson-ci-image:c0541d48f766532e96cd8adb1a2479740690ae1b
+      - image: docker.io/takuyak/handson-ci-image:6e89293fbdd4d6b153d80001c89a156e83543651
         name: blue
         ports:
           - containerPort: 80
